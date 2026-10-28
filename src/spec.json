@@ -1,5 +1,5 @@
 {
-  "title": "Gestione del registro attività",
+  "title": "Registro attività aggiornato",
   "description": "Prototipo dimostrativo per consultare, filtrare e aggiungere attività inventate.",
   "accent": "indigo",
   "pages": [
@@ -29,19 +29,19 @@
       ],
       "rows": [
         [
-          "Attività A",
+          "Lumo A",
           "In corso",
           "Ricerca",
           "Media"
         ],
         [
-          "Attività B",
+          "Vela B",
           "Da avviare",
           "Pianificazione",
           "Alta"
         ],
         [
-          "Attività C",
+          "Nubi C",
           "Completata",
           "Revisione",
           "Bassa"
@@ -63,42 +63,42 @@
       ],
       "rows": [
         [
-          "Attività A",
+          "Lumo A",
           "In corso",
           "Ricerca",
           "Media",
           "12/06/2027"
         ],
         [
-          "Attività B",
+          "Vela B",
           "Da avviare",
           "Pianificazione",
           "Alta",
           "15/06/2027"
         ],
         [
-          "Attività C",
+          "Nubi C",
           "Completata",
           "Revisione",
           "Bassa",
           "09/06/2027"
         ],
         [
-          "Attività D",
+          "Lumo D",
           "In corso",
           "Verifica",
           "Alta",
           "18/06/2027"
         ],
         [
-          "Attività E",
+          "Vela E",
           "Da avviare",
           "Ideazione",
           "Media",
           "21/06/2027"
         ],
         [
-          "Attività F",
+          "Nubi F",
           "Completata",
           "Documentazione",
           "Bassa",
